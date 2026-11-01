@@ -31,6 +31,7 @@ O passo a passo com telas está no manual. *(Link do manual: a acrescentar.)*
 | [pessoas/](pessoas/README.md) | Equipe, papéis, rotina e combinados. |
 | [processos/](processos/README.md) | Como a marca faz as coisas, passo a passo. |
 | [como-alimentar-o-brain.md](como-alimentar-o-brain.md) | Guia das 7 diretrizes para encher o brain com o que a marca já sabe. |
+| [como-voltar-atras.md](como-voltar-atras.md) | Como desfazer um envio errado, usando os backups do LOG. |
 | [como-usar-com-outras-ias.md](como-usar-com-outras-ias.md) | Como levar o mesmo método para o ChatGPT e outras IAs. |
 
 Você não precisa preencher tudo. Comece pela pasta `empresa` e vá acrescentando conforme usa.

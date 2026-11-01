@@ -49,6 +49,8 @@ Arquivos pesados (logo, fontes, fotos, planilhas operacionais) ficam no Drive ou
 
 Toda conversa de trabalho recebe uma entrada no LOG.md, com data, quem trabalhou, apoio de IA, o que foi feito (com links), resultado e pendências. O log não substitui a decisão registrada na pasta da área.
 
+Cada salvamento registra no LOG a **versão anterior (backup)**, para a marca poder voltar atrás se enviar algo errado. Ver [como-voltar-atras.md](como-voltar-atras.md).
+
 Ao pedir "salvar", seguir a skill `salvar`. O trabalho só conta como salvo quando está na versão principal (main) do GitHub. Não forçar envios, não apagar alterações de outras pessoas e não contornar proteções do repositório.
 
 ## Dados atuais
