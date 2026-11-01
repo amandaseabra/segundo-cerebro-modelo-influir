@@ -12,7 +12,7 @@ Criado pela [Influir Fashion Business](https://www.influir.com.br) para donos de
 
 1. Abra o botão verde **Use this template** no alto desta página e escolha **Create a new repository**.
 2. Dê um nome à sua base (por exemplo, `segundo-cerebro-nome-da-marca`) e troque **Public** por **Private**: o GitHub vem com **Public** marcado. **Confira que ficou privada antes de escrever qualquer coisa.**
-3. Conecte o GitHub ao Claude. Para o **Claude Code** montar e atualizar a base por você, é preciso um plano pago do Claude, a partir do Pro. Sem plano pago, siga o [caminho manual](como-usar-com-outras-ias.md). Confira os planos atuais em [claude.com/pricing](https://claude.com/pricing).
+3. Conecte o GitHub ao Claude. Para o **Claude Code** montar e atualizar a base por você, é preciso um plano pago do Claude, a partir do Pro. Confira os planos atuais em [claude.com/pricing](https://claude.com/pricing).
 4. No Claude, abra o **Claude Code** (aba **Code**) e comece uma **conversa nova**. Escolha um ambiente em **Nuvem**, a **sua base** e a branch **main**. Na caixa de mensagem dessa conversa, escreva: *"Quero preparar o segundo cérebro da minha marca. Siga a skill comecar."*
 5. Alimente o brain seguindo o [guia de como alimentar](como-alimentar-o-brain.md), uma diretriz por vez, começando pela identidade da sua marca.
 
