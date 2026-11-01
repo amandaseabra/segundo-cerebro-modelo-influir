@@ -26,6 +26,8 @@ Cada ferramenta aceita arquivos de um jeito, e esses recursos e os limites de ca
 
 Sempre comece pela pasta `empresa/` e pelas regras do `AGENTS.md`. Se o contexto for grande, envie só a pasta da área do pedido.
 
+**No ChatGPT** (conferido na página de planos em 01/11/2026): todos os planos permitem anexar arquivos, com limites maiores nos planos pagos. A página lista o recurso **Projetos**, que guarda arquivos de referência para as suas conversas, a partir do plano Plus. Se o seu plano não tiver Projetos, anexe os arquivos em cada conversa ou cole o texto. A conexão direta com o GitHub, no ChatGPT, não foi conferida: veja na própria ferramenta se está disponível no seu plano. Os recursos e os limites mudam, então confirme na página de planos antes de assinar.
+
 ## 2. Texto para começar uma conversa
 
 Copie e cole, depois anexe ou cole os arquivos:
