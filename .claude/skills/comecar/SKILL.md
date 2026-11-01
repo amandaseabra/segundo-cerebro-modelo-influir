@@ -38,6 +38,7 @@ Se a IA não conseguir abrir um link ou ler um arquivo, diga isso e peça que a 
 
 ## Ao terminar
 
+0. **Troque o README da base.** O README que veio do modelo traz os passos de instalação, que a pessoa já fez. Copie o arquivo `.claude/skills/comecar/README-da-sua-base.md` por cima do `README.md`, preenchendo `<NOME DA MARCA>` e `<DATA>` (a data de hoje). Avise a pessoa, em uma frase, que o README antigo continua no histórico e no modelo da Influir. Se a pessoa já tiver um README próprio com conteúdo diferente do modelo, não substitua: pergunte antes.
 1. Mostre um resumo curto do que entendeu, pasta por pasta, e o que ficou "a confirmar". Peça correções.
 2. Acrescente a entrada no LOG.md.
 3. Siga a skill `salvar` para enviar para o GitHub.
