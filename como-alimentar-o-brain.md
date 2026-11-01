@@ -4,7 +4,7 @@ A Influir recomenda que você alimente o brain aos poucos, **uma diretriz de cad
 
 ## Como enviar
 
-- **Links:** Instagram, site, loja virtual, planilhas (sem senhas). Dependendo da ferramenta, a IA consegue abrir. Se não conseguir, cole o texto ou descreva.
+- **Links:** Instagram, site, loja virtual, planilhas (sem senhas). Dependendo da ferramenta e do acesso à rede do ambiente, a IA consegue abrir. Se não conseguir, cole o texto ou descreva.
 - **PDF e imagens:** brandbook, organograma, cronograma. Pode mandar. A IA entende melhor o que está **escrito**, então vale também contar por escrito o que importa (por exemplo, as cores com o código Pantone ou hexadecimal). Mande o arquivo e tente: é uma conversa, vá ajustando.
 - **Arquivos pesados** (logo, fontes, fotos, planilhas grandes): pode subir nas pastas se forem pequenos. Se forem grandes, deixe no Drive e guarde o link, junto com a regra escrita.
 - **Conversa solta:** também vale. Fale como se estivesse explicando a uma pessoa nova na equipe, e peça à IA para organizar nos arquivos.

@@ -16,7 +16,7 @@ Conte também **quem é a persona e o público-alvo**: quem compra, o que valori
 
 **Não envie:** senhas de contas (do Instagram, do site) e arquivos que você não pode compartilhar.
 
-**Dica:** Mesmo enviando o PDF, a IA entende melhor o que está **escrito**. Então, além do arquivo, vale contar por escrito as cores com o código (hexadecimal ou Pantone), o nome das fontes e como o logo pode ser usado. Mas mande o PDF também e tente: dependendo da ferramenta, ela lê bem. Se a IA não conseguir abrir um link do Instagram ou do site, cole o texto ou descreva. É uma conversa, vá ajustando.
+**Dica:** Mesmo enviando o PDF, a IA entende melhor o que está **escrito**. Então, além do arquivo, vale contar por escrito as cores com o código (hexadecimal ou Pantone), o nome das fontes e como o logo pode ser usado. Mas mande o PDF também e tente: dependendo da ferramenta, ela lê bem. Se a IA não conseguir abrir um link do Instagram ou do site (isso depende da ferramenta e do acesso à rede do ambiente em que ela trabalha), cole o texto ou descreva. É uma conversa, vá ajustando.
 
 ## O que guardar aqui
 
