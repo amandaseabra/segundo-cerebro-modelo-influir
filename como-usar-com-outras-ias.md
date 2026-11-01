@@ -6,9 +6,19 @@ O segundo cérebro é feito de arquivos de texto simples. Por isso ele não depe
 
 **O que muda:** a forma de a IA ler os arquivos e a forma de guardar o resultado.
 
+## Caminho manual: funciona em qualquer plano e em qualquer IA
+
+Você não precisa de plano pago para ter um segundo cérebro. Precisa dele só se quiser que o **Claude Code** grave os arquivos no GitHub por você. Sem isso, o caminho é manual:
+
+1. Crie a base a partir do modelo (o GitHub é gratuito).
+2. Converse com a IA que você já usa e peça o texto dos arquivos.
+3. Salve os arquivos no GitHub à mão, como mostrado no passo 3 abaixo.
+
+Dá um pouco mais de trabalho, mas o conhecimento da marca fica igualmente seu.
+
 ## 1. Dar o contexto à IA
 
-Cada ferramenta aceita arquivos de um jeito, e esses recursos mudam com frequência. Confira na própria ferramenta como enviar arquivos ou pastas. De modo geral, existem três caminhos:
+Cada ferramenta aceita arquivos de um jeito, e esses recursos e os limites de cada plano mudam com frequência. Confira na própria ferramenta como enviar arquivos ou pastas. De modo geral, existem três caminhos:
 
 - **Conectar o GitHub**, quando a ferramenta oferece essa conexão.
 - **Anexar os arquivos** da base (baixe a pasta do GitHub em Code, Download ZIP).
