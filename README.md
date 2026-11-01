@@ -8,6 +8,8 @@ Criado pela [Influir Fashion Business](https://www.influir.com.br) para donos de
 
 ## Como começar
 
+**Antes de tudo:** use o **mesmo e-mail** do Claude em todos os cadastros (GitHub e demais plataformas). Isso facilita muito a conexão entre as contas.
+
 1. Abra o botão verde **Use this template** no alto desta página e escolha **Create a new repository**.
 2. Dê um nome à sua base e marque **Private**. **Confira que ficou privada antes de escrever qualquer coisa.**
 3. Conecte o GitHub ao Claude e abra a sua base nele. Para o **Claude Code** montar e atualizar a base por você, é preciso um plano pago do Claude, a partir do Pro. Sem plano pago, siga o [caminho manual](como-usar-com-outras-ias.md). Confira os planos atuais em [claude.com/pricing](https://claude.com/pricing).
