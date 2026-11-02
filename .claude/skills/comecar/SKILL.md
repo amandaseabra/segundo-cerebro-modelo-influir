@@ -42,4 +42,5 @@ Se a IA não conseguir abrir um link ou ler um arquivo, diga isso e peça que a 
 1. Mostre um resumo curto do que entendeu, pasta por pasta, e o que ficou "a confirmar". Peça correções.
 2. Acrescente a entrada no LOG.md.
 3. Siga a skill `salvar` para enviar para o GitHub.
-4. Diga o que ainda falta e como continuar em outra conversa: "Quero continuar o segundo cérebro da minha marca, na área de <área>."
+4. Se a pessoa disser que **outras pessoas da equipe vão usar** o cérebro, ou que vai criar skills e agentes, sugira preencher `processos/governanca.md` antes de abrir o acesso. Ofereça ajuda para preenchê-lo, uma seção por vez.
+5. Diga o que ainda falta e como continuar em outra conversa: "Quero continuar o segundo cérebro da minha marca, na área de <área>."

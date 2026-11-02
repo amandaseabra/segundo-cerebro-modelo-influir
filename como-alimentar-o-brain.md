@@ -28,4 +28,5 @@ A pasta [empresa/](empresa/README.md) recebe a persona e o público-alvo da dire
 - **Uma diretriz por vez.** Fazer pouco e bem vale mais do que fazer tudo de uma vez.
 - **Volte sempre que a marca mudar:** nova coleção, nova pessoa, nova meta. O brain só ajuda se estiver atual.
 - **Segurança:** nunca envie senhas, dados de cartão ou bancários, CPF nem lista de clientes. Cada diretriz diz o que não enviar.
+- **Vai abrir o cérebro para a equipe ou criar skills e agentes?** Preencha antes o modelo de [governança](processos/governanca.md): quem acessa, para quê e quem cuida.
 - **Confira o que a IA escreveu.** Peça um resumo e corrija o que estiver errado. Ela marca "a confirmar" o que não sabe.

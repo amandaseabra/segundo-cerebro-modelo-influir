@@ -22,6 +22,7 @@ Alimente o brain com os processos: tarefas que se repetem toda semana ou todo m�
 - Quem faz, quando faz e como confere.
 - Checklists.
 - Identificar cada processo como rascunho, em teste ou validado.
+- [Governança do segundo cérebro](governanca.md): um modelo para você preencher com quem acessa o cérebro, para quê, quem aprova o que entra e quando os acessos são revisados. Comece por ele quando outras pessoas da equipe forem usar a base.
 
 ## Se preferir conversar
 
