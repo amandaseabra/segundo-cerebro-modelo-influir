@@ -26,7 +26,7 @@ Cada ferramenta aceita arquivos de um jeito, e esses recursos e os limites de ca
 
 Sempre comece pela pasta `empresa/` e pelas regras do `AGENTS.md`. Se o contexto for grande, envie só a pasta da área do pedido.
 
-**No ChatGPT** (conferido na página de planos em 01/11/2026): todos os planos permitem anexar arquivos, com limites maiores nos planos pagos. A página lista o recurso **Projetos**, que guarda arquivos de referência para as suas conversas, a partir do plano Plus. Se o seu plano não tiver Projetos, anexe os arquivos em cada conversa ou cole o texto. A conexão direta com o GitHub, no ChatGPT, não foi conferida: veja na própria ferramenta se está disponível no seu plano. Os recursos e os limites mudam, então confirme na página de planos antes de assinar.
+**No ChatGPT** (conferido em 01/11 e 03/11/2026): todos os planos permitem anexar arquivos, com limites maiores nos planos pagos. A página de planos lista o recurso **Projetos**, que guarda arquivos de referência para as suas conversas, a partir do plano Plus. O ChatGPT tem um **conector do GitHub que só lê** os arquivos (não grava) e busca o conteúdo quando precisa. Para uma base privada, o app do ChatGPT precisa ter acesso à sua base no GitHub. A central de ajuda da OpenAI indica que o conector começou nos planos pagos (Plus, Pro e Team) e que a oferta mudou em 2026. **Não conseguimos confirmar para os planos Free e Go**: veja na própria ferramenta. Como o ChatGPT só lê, o resultado volta para o GitHub pelo caminho manual do passo 3, abaixo. Os recursos e os limites mudam, então confirme na página de planos antes de assinar.
 
 ## 2. Texto para começar uma conversa
 
