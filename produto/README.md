@@ -4,13 +4,13 @@ Tudo sobre o que a marca cria e compra: coleções, cronograma, preço, estoque 
 
 ## Diretriz 3. Conte como a sua marca cria e produz
 
-Alimente o brain com o que mantém a coleção de pé: o cronograma, como o preço é definido e quem são os fornecedores e ateliês.
+Alimente o brain com o que mantém a coleção de pé: o cronograma, a regra de markup, a estratégia de mix de produto e quem são os fornecedores e ateliês.
 
-**Envie:** o cronograma das coleções (planilha, foto ou texto), a regra de preço e margem, e a lista de fornecedores e ateliês com função e prazos médios.
+**Envie:** o cronograma das coleções (planilha, foto ou texto), a regra de markup, a estratégia de mix de produto, etc., e a lista de fornecedores e ateliês com função e prazos médios.
 
-**Peça à IA:** "Leia o cronograma e escreva em `produto/` as datas principais de cada coleção. Resuma também a regra de preço e a lista de fornecedores."
+**Peça à IA:** "Leia o cronograma e escreva em `produto/` as datas principais de cada coleção. Resuma também a regra de markup, a estratégia de mix de produto e a lista de fornecedores."
 
-**Isso ajuda em:** planejar a próxima coleção, conferir prazos, decidir compras e organizar fornecedores.
+**Isso ajuda em:** planejar a próxima coleção, definir preço e mix, conferir prazos, decidir compras e organizar fornecedores.
 
 **Não envie:** dados bancários, chave Pix e contratos com valores sigilosos dos fornecedores.
 
@@ -19,7 +19,8 @@ Alimente o brain com o que mantém a coleção de pé: o cronograma, como o pre�
 ## O que guardar aqui
 
 - Calendário e cronograma das coleções.
-- Regras de precificação e margem por produto.
+- Regra de markup e precificação por produto.
+- Estratégia de mix de produto.
 - Política de compra e de estoque.
 - Fornecedores e ateliês: o que cada um faz, prazos e combinados (sem dados bancários).
 - Lições de coleções anteriores.
